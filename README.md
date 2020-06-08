@@ -1,7 +1,12 @@
 # Load_map
 
+# Lecture 
+딥러닝 홀로서기 - 정주행 1번 완료. 코드구현은 하지 않았음.
 
-딥러닝 홀로서기
+테크보이 코딩 배우기
+
+https://www.youtube.com/watch?v=M6kQTpIqpLs&list=PLa7Lj786Q-Gts3-LsBl5I56YQrQb4sHxI
+
 
 argparse
 
@@ -63,9 +68,7 @@ Markov process와 Markov Decision process의 차이점은 나의 행동이 주�
 
 https://blog.pabii.co.kr/category/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%82%ac%ec%9d%b4%ec%96%b8%ec%8a%a4/page/5/
 
-테크보이 코딩 배우기
 
-https://www.youtube.com/watch?v=M6kQTpIqpLs&list=PLa7Lj786Q-Gts3-LsBl5I56YQrQb4sHxI
 
 kaggle
 
