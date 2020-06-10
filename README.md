@@ -187,3 +187,4 @@ Roger A. McCain - Game Theory [번역본 게임이론 - 이규억 역(아주대�
 
 홈페이지 구현 
 https://tutorials.pytorch.kr/intermediate/flask_rest_api_tutorial.html
+https://www.fun-coding.org/flask_basic-2.html
