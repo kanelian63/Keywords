@@ -184,3 +184,6 @@ Roger A. McCain - Game Theory [번역본 게임이론 - 이규억 역(아주대�
 김우철 교수님 수리통계학, 회귀분석
 박성현교수님의 회귀분석
 김우철 - 현대통계학(빨간책)
+
+홈페이지 구현 
+https://tutorials.pytorch.kr/intermediate/flask_rest_api_tutorial.html
