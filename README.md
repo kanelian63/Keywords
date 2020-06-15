@@ -292,4 +292,5 @@ plus, 남들이 다 하니까 따라하는지는 모르겠는데, Kaggle에 굳�
 
 Gradient Boosting과 Random Forest의 결합이라는걸 바로 이해하게 
 
-
+[패턴인식] KDE(Kernel density estimation, 커널밀도추정)
+https://blog.naver.com/jamiet1/221392180461
