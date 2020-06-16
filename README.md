@@ -294,3 +294,13 @@ Gradient Boosting과 Random Forest의 결합이라는걸 바로 이해하게
 
 [패턴인식] KDE(Kernel density estimation, 커널밀도추정)
 https://blog.naver.com/jamiet1/221392180461
+
+feature importance : 
+
+사이킷런의 feature importance는 각 feature별로 개별 노드의 Gini importance를 합산하여 계수화 한 것입니다.
+
+feature별 Gini importance는 각 feature들이 사용된 트리 노드에서의 지니계수와 해당 노드의 가중치가 부여된 데이터 건수를 곱한 값을 구한 뒤 이 노드의 자식 노드인 왼쪽과 오른쪽 노드 각각의 지니계수와 가중치 부여한 데이터 건수를 곱한것을 마이너스 하여 계산합니다.  
+
+아래는 이를 Pseudo 코드로 만든 것입니다.
+
+해당 자료는 https://towardsdatascience.com/the-mathematics-of-decision-trees-random-forest-and-feature-importance-in-scikit-learn-and-spark-f2861df67e3 를 참조하였고, Pseudo 코드는 사이킷런의 tree 소스 코드를 참조하였습니다. 
