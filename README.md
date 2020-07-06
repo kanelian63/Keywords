@@ -304,3 +304,6 @@ feature별 Gini importance는 각 feature들이 사용된 트리 노드에서의
 아래는 이를 Pseudo 코드로 만든 것입니다.
 
 해당 자료는 https://towardsdatascience.com/the-mathematics-of-decision-trees-random-forest-and-feature-importance-in-scikit-learn-and-spark-f2861df67e3 를 참조하였고, Pseudo 코드는 사이킷런의 tree 소스 코드를 참조하였습니다. 
+
+Neural architecture transfer
+채널 흐름에 따른 모델의 성능
