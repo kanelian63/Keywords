@@ -307,3 +307,6 @@ feature별 Gini importance는 각 feature들이 사용된 트리 노드에서의
 
 Neural architecture transfer
 채널 흐름에 따른 모델의 성능
+
+# 성능좋은 모델
+HRNet, Res2Net, ResNest, efficientnet, ReXNet, SpineNet
