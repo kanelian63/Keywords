@@ -68,7 +68,7 @@ Markov process와 Markov Decision process의 차이점은 나의 행동이 주�
 
 https://blog.pabii.co.kr/category/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%82%ac%ec%9d%b4%ec%96%b8%ec%8a%a4/page/5/
 
-
+# Xavier initial values
 
 kaggle
 
