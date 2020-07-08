@@ -8,6 +8,11 @@
 https://www.youtube.com/watch?v=M6kQTpIqpLs&list=PLa7Lj786Q-Gts3-LsBl5I56YQrQb4sHxI
 
 
+# 하버드 statistics
+https://www.edwith.org/harvardprobability/joinLectures/17924
+
+# sf cs231n
+http://cs231n.stanford.edu/syllabus.html
 argparse
 
 모듈리스트 시퀀셜
