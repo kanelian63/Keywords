@@ -7,7 +7,9 @@
 
 https://www.youtube.com/watch?v=M6kQTpIqpLs&list=PLa7Lj786Q-Gts3-LsBl5I56YQrQb4sHxI
 
-
+# Paper review
+인공지능 학회 (NIPS, ICML, ICLR, ICCV, CVPR 등)와 보안 학회 (S&P, NDSS, Secuirty, CSS 등) 논문
+ 
 # 하버드 statistics
 https://www.edwith.org/harvardprobability/joinLectures/17924
 
