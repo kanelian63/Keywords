@@ -23,8 +23,8 @@ L_1 loss
 L_2 loss
 SVM
 hinge loss
-
-
+L1 regularization
+L2 regularization
 
 
 argparse
