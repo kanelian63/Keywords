@@ -18,6 +18,15 @@ https://www.edwith.org/harvardprobability/joinLectures/17924
 
 # sf cs231n
 http://cs231n.stanford.edu/syllabus.html
+
+L_1 loss
+L_2 loss
+SVM
+
+
+
+
+
 argparse
 
 모듈리스트 시퀀셜
