@@ -22,7 +22,7 @@ http://cs231n.stanford.edu/syllabus.html
 L_1 loss
 L_2 loss
 SVM
-
+hinge loss
 
 
 
